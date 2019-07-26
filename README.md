@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AbhishekKumar0967/POC/_apis/build/status/abisekwins29.azure-pipeline?branchName=master)](https://dev.azure.com/AbhishekKumar0967/POC/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
